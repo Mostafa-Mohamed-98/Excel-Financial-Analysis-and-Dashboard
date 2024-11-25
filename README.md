@@ -56,11 +56,11 @@ Each indicator is accompanied by a brief explanation to help users understand it
 
 !![o](https://github.com/user-attachments/assets/05bbe9f7-3d9d-48d6-8e55-aa40b42f39a9)
 
-###conclusion
+# conclusion
 
 The Excel project provided insights into the company's financial health through ratio analysis, including liquidity, profitability, solvency, and efficiency. Key findings highlighted areas of strength, potential risks, and opportunities for improved financial performance.
 
-###Summary
+# Summary
 
 Overall, the project showcased effective financial analysis using Excel tools, providing insights into the company's performance through ratio evaluations. The final dashboard and financial summaries serve as valuable resources for visualizing key metrics and supporting data-driven strategic decisions.
 
